@@ -1,0 +1,7 @@
+baseURL = "https://example.com/"
+defaultContentLanguage = "zh-cn"
+title = "我的博客"
+enableRobotsTXT = true
+enableGitInfo = true
+enableEmoji = true
+theme = "DoIt"
