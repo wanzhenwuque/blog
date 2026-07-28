@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://blog.18946433866.workers.dev/"
 defaultContentLanguage = "zh-cn"
 title = "我的博客"
 enableRobotsTXT = true
